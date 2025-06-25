@@ -1,0 +1,16 @@
+From: noreply.paypal@securemygateway.com
+Subject: Paypal Account Suspension
+
+Dear Customer,
+
+Your PayPal account has been temporarily restricted. We have found suspicious activity on credit cards linked to your PayPal account.
+
+You must confirm your identity to confirm that you own the credit card.
+
+To maintain account security, please provide documents that confirm your identity.
+
+[Log in to Paypal]
+
+After you complete the requested task, we will review the account and contact you about its status within 5 working days.
+
+Thank you for your attention to this problem.
